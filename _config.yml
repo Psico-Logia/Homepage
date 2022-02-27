@@ -1,6 +1,6 @@
 # Site
-title:              Bienvenido a Psico Logia
-bio:                'Psicología basada en la evidencia'
+title:              Bienvenido a <br> Psico Logia
+bio:                'Psicoterapia basada en la evidencia'
 description:        "Aca podras encontrar los enlaces a mis redes y agendar tu cita de manera online"
 reading_time:       true
 words_per_minute:   200
@@ -31,15 +31,15 @@ disqus_shortname:   Psico logia
 # Social
 # if you don't have any of social below, comment the line.
 #google:
-  #plus:            #username
-  #analytics:
-  #verify:
-  #ad-client:
-  #ad-slot:
+ #plus:            #username
+ #analytics:
+ #verify:
+ #ad-client:
+ #ad-slot:
 #bing-verify:
 email:              davida.psicologia@gmail.com
 #twitter:            username
-facebook:           Psico.logia.co
+facebook:           Psico.logia.david
 github-url:         https://github.com/Psico-Logia
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 linkedin:          david-psico-logia
@@ -52,8 +52,8 @@ instagram:          psico.logia.co
 #foursquare:        username
 #steam:              username
 #dribbble:          username
-youtube:           Psico logia
-youtube-channel:   c/psicologia0
+#youtube:           Psico logia
+youtube-channel:   psicologia0
 #soundcloud:        username
 #weibo:             username
 #flickr:            username
