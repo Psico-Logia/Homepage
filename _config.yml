@@ -1,14 +1,14 @@
 # Site
-title:              Moon
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+title:              Psico-Logia
+bio:                'Home page de psico logia'
+description:        "Aca podras encontrar los enlaces a mis redes y agendar tu cita de manera Online"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://taylantatli.github.io/Moon
+url:                https://psico-logia.github.io/Homepage
 
 # Jekyll
 permalink:          /:title/
@@ -26,7 +26,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+disqus_shortname:   Psico logia
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -37,23 +37,23 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
-twitter:            username
-facebook:           username
-github-url:         username
+email:              davida.psicologia@gmail.com
+#twitter:            username
+facebook:           Psico-logia
+github-url:         https://github.com/Psico-Logia
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          username
+instagram:          https://www.instagram.com/psico.logia.co/
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
-#youtube:           username
-#youtube-channel:   channel
+youtube:           Psico logia
+youtube-channel:   https://www.youtube.com/c/psicologia0
 #soundcloud:        username
 #weibo:             username
 #flickr:            username
@@ -74,5 +74,3 @@ jekyll-mentions:
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
-
-theme: jekyll-theme-minimal
