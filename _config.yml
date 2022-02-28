@@ -40,7 +40,7 @@ disqus_shortname:   Psico logia
 email:              davida.psicologia@gmail.com
 #twitter:            username
 facebook:           Psico.logia.david
-github-url:         https://github.com/Psico-Logia
+github-url:         Psico-Logia
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 linkedin:          david-psico-logia
 #xing:              username
@@ -52,7 +52,7 @@ instagram:          psico.logia.co
 #foursquare:        username
 #steam:              username
 #dribbble:          username
-youtube:            psicologia0
+#youtube:            psicologia0
 youtube-channel:   psicologia0
 #soundcloud:        username
 #weibo:             username
@@ -61,6 +61,7 @@ youtube-channel:   psicologia0
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
+tiktok:             @psico.logia
 
 # Gems
 gems:
