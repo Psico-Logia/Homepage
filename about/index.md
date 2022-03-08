@@ -2,36 +2,28 @@
 layout: page
 title: About the Theme
 tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+date: 2022-03-08
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center><a href="https://psico-logia.github.io/Homepage/"><b>Psico logia</b></a> es un proyecto de difusion y atencion de david patiño</center>
 
 ## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+Comparto avances basados en la evidencia
+🧠Psicología y tecnología.📳
+Inteligencia artificial (IA), filosofía y ciencia.
+sigueme en YoutubeT, Instagram y Facebook 
 
 ## Preview
 
 {% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
+    https://scontent.feoh4-4.fna.fbcdn.net/v/t39.30808-6/274132803_488383969388863_1336369454577151750_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=a26aad&_nc_ohc=GtWDApVAtJUAX9TZnNV&_nc_ht=scontent.feoh4-4.fna&oh=00_AT-1wIeqGATCubJ9en0AMm-fRGIHprXUTCtHBwxa1wGRDA&oe=622C9406
+    
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
 ## Getting Started
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
+Agenda tu cita online [Citas](https://www.instagram.com/psico.logia.co/).
       
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+[ayudar ayuda](https://www.youtube.com/c/psicologia0){: .btn}
