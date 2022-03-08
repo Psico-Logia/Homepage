@@ -1,7 +1,7 @@
 # Site
-title:              Bienvenido a <br> <b>Psico Logia</b>
-bio:                'Psicoterapia basada en la evidencia'
-description:        "Aca podras encontrar los enlaces a mis redes y agendar tu cita de manera online"
+title:              Psico Logia
+bio:                'Bienvenido <br> Psicoterapia basada en la evidencia'
+description:        "Sigueme en mis redes sociales, contactame o agenda tu cita de manera online"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -46,7 +46,7 @@ linkedin:          david-psico-logia
 #xing:              username
 instagram:          psico.logia.co
 #lastfm:            username
-#tumblr:            username
+tumblr:            @psico.logia
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
