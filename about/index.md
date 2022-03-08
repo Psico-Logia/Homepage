@@ -21,7 +21,7 @@ sigueme en Youtube, Instagram y Facebook
     
 {% endcapture %}
 {% include gallery images=images caption="Psicologo - Universidad de Antioquia" cols=2 %}
-Enfoque cognitivo-conductual
+Enfoque cognitivo-conductual <br>
 Especialista en terapias contextuales.
 
 ## ¿Cómo me pueden contactar?
