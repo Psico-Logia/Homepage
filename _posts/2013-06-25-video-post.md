@@ -1,20 +1,14 @@
 ---
 layout: post
-title:  "A Post with a Video"
-date:   2016-03-15
-excerpt: "Custom written post descriptions are the way to go... if you're not lazy."
+title:  "Sigueme Tambien en Tik Tok"
+date:   08/03/2022
+excerpt: "Aun tengo problemas para agregar el link de esta red social, pero por aca les dejo el link"
 tag:
-- sample
 - post
 - video
 comments: true
 ---
-<iframe width="560" height="315" src="//www.youtube.com/embed/SU3kYxJmWuQ" frameborder="0"> </iframe>
+<iframe width="315" height="560" src="https://www.tiktok.com/@psico.logia/video/7065777547149184261?is_from_webapp=1&sender_device=pc&web_id6920638656651068934" frameborder="0"> </iframe>
 
-Video embeds are responsive and scale with the width of the main content block with the help of [FitVids](http://fitvidsjs.com/).
+Con la intencion de mejorar los servicios ofrecidos, cree esta pag. Aunque no he podido agregar el link de tik tok
 
-Not sure if this only effects Kramdown or if it's an issue with Markdown in general. But adding YouTube video embeds causes errors when building your Jekyll site. To fix add a space between the `<iframe>` tags and remove `allowfullscreen`. Example below:
-
-{% highlight html %}
-<iframe width="560" height="315" src="//www.youtube.com/embed/SU3kYxJmWuQ" frameborder="0"> </iframe>
-{% endhighlight %}
