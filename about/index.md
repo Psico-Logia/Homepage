@@ -12,7 +12,7 @@ comments: false
 Comparto avances basados en la evidencia <br>
 🧠Psicología y tecnología.📳 <br>
 Inteligencia artificial (IA), filosofía y ciencia. <br>
-sigueme en YoutubeT, Instagram y Facebook 
+sigueme en Youtube, Instagram y Facebook 
 
 ## Preview
 
